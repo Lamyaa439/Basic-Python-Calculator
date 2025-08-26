@@ -1,1 +1,1 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=29&pause=1000&color=F71549&background=8C50A500&center=true&vCenter=true&width=435&height=53&lines=Hello+there+%F0%9F%91%8B;I'm+Lamyaa+Alghaihab" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=31&pause=1000&color=F71549&background=8C50A500&center=true&vCenter=true&width=462&height=59&lines=Hello+there+%F0%9F%91%8B;I+am+Lamyaa+Alghaihab" alt="Typing SVG" /></a>
